@@ -16,12 +16,12 @@
 
 ## 📸 Preview
 
-<h2>Dashboard windowr<h2>
-<img width="400" height="400" alt="Screenshot 2026-10-31 200127" src="https://github.com/user-attachments/assets/43f9df28-1405-43c7-a384-c2120c5523a9" />
+<h2>Dashboard window<h2>
+<img width="550" height="400" alt="Screenshot 2026-10-31 200127" src="https://github.com/user-attachments/assets/43f9df28-1405-43c7-a384-c2120c5523a9" />
 <h2>Top 10 rated<h2>
-<img width="400" height="400" alt="Screenshot 2026-10-31 200140" src="https://github.com/user-attachments/assets/e0cb9b40-4948-4c9b-a49a-3b359c3ea89d" />
+<img width="550" height="400" alt="Screenshot 2026-10-31 200140" src="https://github.com/user-attachments/assets/e0cb9b40-4948-4c9b-a49a-3b359c3ea89d" />
     <h2>Releases per year<h2>
- <img width="400" height="400" alt="Screenshot 2026-10-31 200133" src="https://github.com/user-attachments/assets/b667a2b0-45b1-4380-9d98-df57b2256dbd" />
+ <img width="550" height="400" alt="Screenshot 2026-10-31 200133" src="https://github.com/user-attachments/assets/b667a2b0-45b1-4380-9d98-df57b2256dbd" />
 
 ---
 
