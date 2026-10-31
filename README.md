@@ -18,7 +18,11 @@
 
 | Dashboard window | Releases per year | Top 10 rated |
 |---|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Releases per year](screenshots/releases.png) | ![Top 10 rated](screenshots/top10.png) |
+| !
+<img width="907" height="377" alt="Screenshot 2026-10-31 200127" src="https://github.com/user-attachments/assets/43f9df28-1405-43c7-a384-c2120c5523a9" />
+ | <img width="797" height="463" alt="Screenshot 2026-10-31 200140" src="https://github.com/user-attachments/assets/e0cb9b40-4948-4c9b-a49a-3b359c3ea89d" />
+ | <img width="783" height="462" alt="Screenshot 2026-10-31 200133" src="https://github.com/user-attachments/assets/b667a2b0-45b1-4380-9d98-df57b2256dbd" />
+ |
 
 ---
 
