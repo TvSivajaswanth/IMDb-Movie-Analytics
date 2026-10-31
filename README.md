@@ -96,8 +96,7 @@ python --version
 **2. Clone this repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/imdb-dashboard.git
-cd imdb-dashboard
+git clone https://github.com/TvSivajaswanth/IMDb-Movie-Analytics.git
 ```
 
 **3. Install the required packages**
